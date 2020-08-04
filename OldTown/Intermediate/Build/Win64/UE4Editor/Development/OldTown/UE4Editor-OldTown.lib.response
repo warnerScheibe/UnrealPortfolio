@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OldTown.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Warner\Desktop\UnrealPortfolio\OldTown\Intermediate\Build\Win64\OldTownEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Warner\Desktop\UnrealPortfolio\OldTown\Intermediate\Build\Win64\UE4Editor\Development\OldTown\OldTown.cpp.obj"
+"C:\Users\Warner\Desktop\UnrealPortfolio\OldTown\Intermediate\Build\Win64\UE4Editor\Development\OldTown\OldTownGameModeBase.cpp.obj"
+"C:\Users\Warner\Desktop\UnrealPortfolio\OldTown\Intermediate\Build\Win64\UE4Editor\Development\OldTown\OldTown.init.gen.cpp.obj"
+"C:\Users\Warner\Desktop\UnrealPortfolio\OldTown\Intermediate\Build\Win64\UE4Editor\Development\OldTown\OldTownGameModeBase.gen.cpp.obj"
+"C:\Users\Warner\Desktop\UnrealPortfolio\OldTown\Intermediate\Build\Win64\UE4Editor\Development\OldTown\Default.rc2.res"
+/OUT:"C:\Users\Warner\Desktop\UnrealPortfolio\OldTown\Intermediate\Build\Win64\UE4Editor\Development\OldTown\UE4Editor-OldTown.lib"
+/INCLUDE:IMPLEMENT_MODULE_OldTown

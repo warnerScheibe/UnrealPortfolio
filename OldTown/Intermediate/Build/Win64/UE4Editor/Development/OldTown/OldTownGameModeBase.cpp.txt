@@ -1,0 +1,7 @@
+C:\Users\Warner\Desktop\UnrealPortfolio\OldTown\Intermediate\Build\Win64\UE4Editor\Development\OldTown\Definitions.OldTown.h
+C:\Users\Warner\Desktop\UnrealPortfolio\OldTown\Source\OldTown\OldTownGameModeBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Warner\Desktop\UnrealPortfolio\OldTown\Intermediate\Build\Win64\UE4Editor\Inc\OldTown\OldTownGameModeBase.generated.h

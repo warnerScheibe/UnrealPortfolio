@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "OldTown",
+			"Path": "C:\\Users\\Warner\\Desktop\\UnrealPortfolio\\OldTown\\Source\\OldTown.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "OldTownEditor",
+			"Path": "C:\\Users\\Warner\\Desktop\\UnrealPortfolio\\OldTown\\Source\\OldTownEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
