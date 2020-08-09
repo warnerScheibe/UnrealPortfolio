@@ -5713,3 +5713,102 @@ Script Stack (0 frames):
 [2020.08.09-06.47.26:117][216]AssetCheck: New page: Asset Save: multiple assets
 [2020.08.09-06.47.26:117][216]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2020.08.09-06.47.26:117][216]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.08.09-06.48.17:825][756]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.08.09-06.48.52:176][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase9)
+[2020.08.09-06.48.59:252][558]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.48.59:932][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase4)
+[2020.08.09-06.49.00:809][648]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (StiltBase2)
+[2020.08.09-06.49.01:772][707]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (StiltBase3)
+[2020.08.09-06.49.02:942][779]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (StiltBase)
+[2020.08.09-06.49.04:041][846]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (StiltBase5)
+[2020.08.09-06.49.17:262][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.49.18:142][721]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase9)
+[2020.08.09-06.49.21:029][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.49.39:969][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush9)
+[2020.08.09-06.49.42:527][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.49.44:701][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush9)
+[2020.08.09-06.49.47:578][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.49.48:297][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush9)
+[2020.08.09-06.50.36:031][351]LogSlate: Window 'Select Path' being destroyed
+[2020.08.09-06.50.36:200][351]LogStaticMesh: Building static mesh StiltTower...
+[2020.08.09-06.50.36:224][351]LogStaticMesh: Built static mesh [0.02s] /Game/StiltTower.StiltTower
+[2020.08.09-06.50.36:237][351]LogActorFactory: Actor Factory created StiltTower
+[2020.08.09-06.50.36:258][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush_13' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:258][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush2_15' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:258][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush3_18' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:258][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush4_20' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:258][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush5_22' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:258][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush6_24' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:258][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush7_26' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:258][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush8_28' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:258][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush9_30' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:258][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush10' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:258][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush11' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:258][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush12' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:258][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush13' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:258][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush14' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:258][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush15' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:258][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush16' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:258][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush17' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:258][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush18' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:259][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush19' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:259][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ConeBrush' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:259][351]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.CylinderBrush' is marked pending kill and cannot be converted
+[2020.08.09-06.50.36:259][351]EditorErrors: New page: Actor Reattachment
+[2020.08.09-06.50.36:274][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.08.09-06.50.48:086][198]Cmd: EDIT COPY
+[2020.08.09-06.50.48:315][216]Cmd: EDIT PASTE
+[2020.08.09-06.50.56:557][793]Cmd: EDIT COPY
+[2020.08.09-06.50.56:791][808]Cmd: EDIT PASTE
+[2020.08.09-06.51.00:163][ 34]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.51.12:983][851]Cmd: EDIT PASTE
+[2020.08.09-06.51.17:496][149]Cmd: EDIT PASTE
+[2020.08.09-06.51.22:961][508]Cmd: EDIT PASTE
+[2020.08.09-06.51.30:688][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltTower2)
+[2020.08.09-06.51.37:148][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase7)
+[2020.08.09-06.51.42:949][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.51.43:480][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase6)
+[2020.08.09-06.51.48:146][957]Cmd: DELETE
+[2020.08.09-06.51.48:146][957]Cmd: ACTOR DELETE
+[2020.08.09-06.51.48:151][957]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.08.09-06.51.48:161][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.08.09-06.51.48:167][957]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2020.08.09-06.51.56:404][525]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.08.09-06.52.56:177][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltTower3)
+[2020.08.09-06.53.02:760][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltTower6)
+[2020.08.09-06.53.04:130][230]Cmd: EDIT COPY
+[2020.08.09-06.53.04:353][239]Cmd: EDIT PASTE
+[2020.08.09-06.53.12:162][596]Cmd: EDIT COPY
+[2020.08.09-06.53.12:397][605]Cmd: EDIT PASTE
+[2020.08.09-06.53.19:769][933]Cmd: EDIT COPY
+[2020.08.09-06.53.19:965][942]Cmd: EDIT PASTE
+[2020.08.09-06.53.28:366][367]Cmd: EDIT COPY
+[2020.08.09-06.53.28:616][380]Cmd: EDIT PASTE
+[2020.08.09-06.53.31:204][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.53.39:421][991]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.08.09-06.56.19:263][102]Cmd: TRANSACTION UNDO
+[2020.08.09-06.56.19:263][102]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2020.08.09-06.56.19:337][102]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.08.09-07.01.11:639][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.08.09-07.01.11:677][641]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.08.09-07.01.11:681][641]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2020.08.09-07.01.11:682][641]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2020.08.09-07.01.11:682][641]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.08.09-07.01.11:786][641]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2020.08.09-07.01.11:787][641]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2020.08.09-07.01.11:788][641]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2020.08.09-07.01.11:999][641]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Saved/Minimal_Default_Auto72B7C835D43CBCC139581C1998DAAE8D2.tmp' to '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto7.umap'
+[2020.08.09-07.01.12:003][641]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.375
+[2020.08.09-07.01.12:003][641]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.375
+[2020.08.09-07.01.12:003][641]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StiltTower] ([1] browsable assets)...
+[2020.08.09-07.01.12:123][641]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StiltTower.StiltTower]
+[2020.08.09-07.01.12:123][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/StiltTower]
+[2020.08.09-07.01.12:123][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StiltTower" FILE="../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Saved/Autosaves/Game/StiltTower_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2020.08.09-07.01.12:139][641]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Saved/StiltTower_Auto714AB4FC54A6C30D0BE8CD38A4858F1BB.tmp' to '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Saved/Autosaves/Game/StiltTower_Auto7.uasset'
+[2020.08.09-07.01.12:140][641]LogFileHelpers: Auto-saving content packages took 0.138
+[2020.08.09-07.01.20:221][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.08.09-07.01.20:612][  0]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Saved/Minimal_Default0844D9CE486B0A9D766982A326EA8BD6.tmp' to '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.08.09-07.01.20:734][  0]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Saved/Minimal_Default_BuiltDataE6B0BB4A4C8778E445F623B16EEE6D63.tmp' to '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.08.09-07.01.20:748][  0]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.09-07.01.20:748][  0]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.08.09-07.01.20:748][  0]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
