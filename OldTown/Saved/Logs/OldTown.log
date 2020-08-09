@@ -5052,3 +5052,664 @@ Script Stack (0 frames):
 [2020.08.09-06.14.28:286][554]AssetCheck: New page: Asset Save: multiple assets
 [2020.08.09-06.14.28:286][554]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2020.08.09-06.14.28:286][554]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.08.09-06.16.33:686][ 79]LogActorFactory: Actor Factory created SM_Rock
+[2020.08.09-06.16.34:890][157]LogActorFactory: Actor Factory created SM_Rock
+[2020.08.09-06.17.00:955][207]Cmd: TRANSACTION UNDO
+[2020.08.09-06.17.00:955][207]LogEditorTransaction: Undo Create Actors
+[2020.08.09-06.17.03:019][283]LogActorFactory: Actor Factory created SM_Bush
+[2020.08.09-06.17.05:732][489]LogActorFactory: Actor Factory created SM_Bush
+[2020.08.09-06.17.23:478][618]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.17.24:534][692]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.17.25:965][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush)
+[2020.08.09-06.17.29:093][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.17.30:190][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush)
+[2020.08.09-06.17.33:902][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.17.34:973][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush)
+[2020.08.09-06.17.42:058][819]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.17.42:883][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush)
+[2020.08.09-06.17.43:848][948]Cmd: EDIT COPY
+[2020.08.09-06.17.44:108][969]Cmd: EDIT PASTE
+[2020.08.09-06.17.49:122][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.17.49:955][288]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.17.52:074][429]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.17.53:119][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.17.53:691][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush2)
+[2020.08.09-06.18.02:496][995]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.18.04:085][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.18.04:680][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.18.05:203][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush2)
+[2020.08.09-06.18.14:199][883]Cmd: EDIT COPY
+[2020.08.09-06.18.14:475][905]Cmd: EDIT PASTE
+[2020.08.09-06.18.17:718][153]Cmd: EDIT COPY
+[2020.08.09-06.18.17:972][173]Cmd: EDIT PASTE
+[2020.08.09-06.18.25:022][708]Cmd: EDIT COPY
+[2020.08.09-06.18.25:317][731]Cmd: EDIT PASTE
+[2020.08.09-06.18.32:426][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush4)
+[2020.08.09-06.18.35:175][461]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.18.47:410][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.18.48:794][354]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.18.52:053][545]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/materials/terrainMat.terrainMat
+[2020.08.09-06.18.52:055][545]LogMaterial: Display: Missing cached shader map for material terrainMat, compiling. 
+[2020.08.09-06.18.52:388][545]LogMaterial: Display: Missing cached shader map for material terrainMat, compiling. 
+[2020.08.09-06.18.52:413][545]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.08.09-06.18.52:413][545]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.09-06.18.52:413][545]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.09-06.18.52:413][545]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.09-06.18.52:416][545]LogMaterial: Display: Missing cached shader map for material terrainMat, compiling. 
+[2020.08.09-06.18.52:449][545]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.08.09-06.18.53:636][579]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.08.09-06.18.53:992][593]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.08.09-06.18.54:176][600]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.08.09-06.18.54:198][601]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.08.09-06.18.54:651][618]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.08.09-06.18.54:801][624]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.08.09-06.18.54:825][625]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.08.09-06.18.55:236][641]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.08.09-06.18.55:380][647]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.08.09-06.18.55:626][657]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.08.09-06.18.55:759][662]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.08.09-06.18.55:962][670]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.08.09-06.18.56:059][674]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.08.09-06.18.56:091][675]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.08.09-06.18.56:092][675]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 186 instructions
+[2020.08.09-06.18.56:092][675]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.09-06.18.56:092][675]MaterialEditorStats: Texture samplers: 2/16
+[2020.08.09-06.19.01:688][965]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.08.09-06.19.01:695][965]LogMaterial: Display: Missing cached shader map for material terrainMat, compiling. 
+[2020.08.09-06.19.01:715][966]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.08.09-06.19.01:715][966]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.08.09-06.19.01:715][966]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.08.09-06.19.01:715][966]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.08.09-06.19.02:274][988]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.08.09-06.19.02:325][990]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.08.09-06.19.02:413][994]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.08.09-06.19.02:419][994]LogMaterial: Display: Missing cached shader map for material terrainMat, compiling. 
+[2020.08.09-06.19.02:435][994]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.08.09-06.19.02:437][994]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.08.09-06.19.02:452][994]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.08.09-06.19.02:461][994]LogMaterial: Display: Missing cached shader map for material terrainMat, compiling. 
+[2020.08.09-06.19.02:500][994]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.08.09-06.19.02:509][994]LogMaterial: Display: Missing cached shader map for material terrainMat, compiling. 
+[2020.08.09-06.19.02:524][994]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.08.09-06.19.02:533][994]LogMaterial: Display: Missing cached shader map for material terrainMat, compiling. 
+[2020.08.09-06.19.02:545][994]LogSlate: Window 'Color Picker' being destroyed
+[2020.08.09-06.19.02:925][  3]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.08.09-06.19.03:054][  6]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.08.09-06.19.03:259][ 15]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.08.09-06.19.03:310][ 17]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.08.09-06.19.03:425][ 22]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.08.09-06.19.03:647][ 31]LogMaterialEditor: Saving and Compiling material terrainMat
+[2020.08.09-06.19.06:739][ 31]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.08.09-06.19.06:740][ 31]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.09-06.19.06:740][ 31]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.08.09-06.19.06:740][ 31]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.08.09-06.19.06:740][ 31]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.08.09-06.19.06:740][ 31]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.08.09-06.19.06:740][ 31]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.08.09-06.19.06:740][ 31]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.08.09-06.19.06:750][ 31]LogMaterial: Display: Missing cached shader map for material terrainMat, compiling. 
+[2020.08.09-06.19.06:885][ 31]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.08.09-06.19.06:885][ 31]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.09-06.19.06:885][ 31]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.09-06.19.06:885][ 31]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.09-06.19.06:911][ 31]LogMaterial: Display: Missing cached shader map for material terrainMat, compiling. 
+[2020.08.09-06.19.06:946][ 31]LogMaterial: Display: Missing cached shader map for material terrainMat, compiling. 
+[2020.08.09-06.19.07:092][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.08.09-06.19.07:104][ 31]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.09-06.19.07:671][ 31]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 48
+[2020.08.09-06.19.07:671][ 31]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 47
+[2020.08.09-06.19.07:671][ 31]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2020.08.09-06.19.07:671][ 31]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2020.08.09-06.19.08:232][ 31]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2020.08.09-06.19.08:232][ 31]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2020.08.09-06.19.08:232][ 31]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2020.08.09-06.19.08:232][ 31]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2020.08.09-06.19.08:232][ 31]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.08.09-06.19.08:232][ 31]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.08.09-06.19.08:321][ 31]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.08.09-06.19.08:458][ 31]TextureStreamingBuild: Display: Compiling optional shaders took 1.360 seconds.
+[2020.08.09-06.19.08:470][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.08.09-06.19.10:785][ 31]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.08.09-06.19.10:785][ 31]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.08.09-06.19.10:785][ 31]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.08.09-06.19.11:907][ 31]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.08.09-06.19.11:907][ 31]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.08.09-06.19.11:907][ 31]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.08.09-06.19.12:777][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/materials/terrainMat" FILE="../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Content/materials/terrainMat.uasset" SILENT=true
+[2020.08.09-06.19.12:832][ 31]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Saved/terrainMat77DC3A2D4AC6B2AAF9BE0CABE081561C.tmp' to '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Content/materials/terrainMat.uasset'
+[2020.08.09-06.19.12:879][ 31]AssetCheck: New page: Asset Save: terrainMat
+[2020.08.09-06.19.12:879][ 31]LogContentValidation: Display: Validating Material /Game/materials/terrainMat.terrainMat
+[2020.08.09-06.19.12:886][ 31]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.08.09-06.19.12:886][ 31]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 186 instructions
+[2020.08.09-06.19.12:886][ 31]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.08.09-06.19.12:886][ 31]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.09-06.19.14:724][107]LogSlate: Window 'terrainMat' being destroyed
+[2020.08.09-06.19.14:746][107]LogSlate: Window 'terrainMat' being destroyed
+[2020.08.09-06.19.14:782][107]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.08.09-06.19.14:782][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.09-06.19.22:365][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.19.25:039][703]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Water_Lake.M_Water_Lake
+[2020.08.09-06.19.25:043][703]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2020.08.09-06.19.25:382][703]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2020.08.09-06.19.25:404][703]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.08.09-06.19.25:404][703]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.08.09-06.19.25:404][703]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.08.09-06.19.25:404][703]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.08.09-06.19.25:408][703]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2020.08.09-06.19.25:448][703]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2020.08.09-06.19.25:462][703]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2020.08.09-06.19.25:472][703]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.09-06.19.25:488][703]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2020.08.09-06.19.25:492][703]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2020.08.09-06.19.25:497][703]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2020.08.09-06.19.25:502][703]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2020.08.09-06.19.25:507][703]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2020.08.09-06.19.25:522][703]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2020.08.09-06.19.25:526][703]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2020.08.09-06.19.25:906][703]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 51
+[2020.08.09-06.19.26:146][710]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2020.08.09-06.19.26:295][714]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 49
+[2020.08.09-06.19.26:318][715]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 48
+[2020.08.09-06.19.26:918][733]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2020.08.09-06.19.26:954][734]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2020.08.09-06.19.27:170][741]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 45
+[2020.08.09-06.19.27:170][741]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2020.08.09-06.19.27:729][759]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2020.08.09-06.19.27:903][767]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2020.08.09-06.19.27:945][769]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 41
+[2020.08.09-06.19.28:115][776]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2020.08.09-06.19.28:482][790]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.08.09-06.19.28:650][797]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2020.08.09-06.19.28:673][798]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 37
+[2020.08.09-06.19.28:759][802]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2020.08.09-06.19.29:138][816]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2020.08.09-06.19.29:213][819]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2020.08.09-06.19.29:281][822]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2020.08.09-06.19.29:281][822]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2020.08.09-06.19.29:816][841]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2020.08.09-06.19.29:816][841]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.08.09-06.19.29:859][843]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2020.08.09-06.19.29:859][843]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.08.09-06.19.29:948][847]MaterialEditorStats: Base pass shader: 175 instructions
+[2020.08.09-06.19.29:948][847]MaterialEditorStats: Base pass shader with Surface Lightmap: 202 instructions
+[2020.08.09-06.19.29:948][847]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 249 instructions
+[2020.08.09-06.19.29:948][847]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.08.09-06.19.29:948][847]MaterialEditorStats: Texture samplers: 3/16
+[2020.08.09-06.19.29:948][847]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.08.09-06.19.29:948][847]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.09-06.19.30:427][860]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 27
+[2020.08.09-06.19.30:456][861]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.08.09-06.19.30:516][863]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.08.09-06.19.30:516][863]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2020.08.09-06.19.31:087][879]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.08.09-06.19.31:087][879]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.08.09-06.19.31:118][880]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2020.08.09-06.19.31:177][882]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.08.09-06.19.31:745][897]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.08.09-06.19.31:796][899]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.08.09-06.19.31:822][900]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.08.09-06.19.31:822][900]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.08.09-06.19.32:400][916]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.08.09-06.19.32:438][917]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.08.09-06.19.32:467][918]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.08.09-06.19.32:538][920]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.08.09-06.19.33:049][937]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.08.09-06.19.33:075][938]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.08.09-06.19.33:075][938]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.08.09-06.19.33:142][941]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.08.09-06.19.33:611][959]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.08.09-06.19.33:682][962]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.09-06.19.33:704][963]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.08.09-06.19.33:750][965]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.08.09-06.19.34:253][983]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.08.09-06.19.34:276][984]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.08.09-06.19.34:276][984]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.08.09-06.19.45:944][672]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2020.08.09-06.19.45:965][672]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.08.09-06.19.45:966][672]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.08.09-06.19.45:966][672]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.08.09-06.19.45:966][672]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.08.09-06.19.45:966][672]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2020.08.09-06.19.45:978][672]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.09-06.19.45:995][672]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2020.08.09-06.19.46:004][672]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2020.08.09-06.19.46:014][672]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2020.08.09-06.19.46:028][672]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2020.08.09-06.19.46:037][672]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2020.08.09-06.19.46:046][672]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2020.08.09-06.19.46:054][672]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2020.08.09-06.19.46:061][672]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2020.08.09-06.19.46:540][681]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 47
+[2020.08.09-06.19.46:637][684]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2020.08.09-06.19.46:669][685]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 45
+[2020.08.09-06.19.46:670][685]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2020.08.09-06.19.46:952][693]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2020.08.09-06.19.46:973][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.09-06.19.46:993][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2020.08.09-06.19.46:999][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2020.08.09-06.19.47:005][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.09-06.19.47:022][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2020.08.09-06.19.47:029][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2020.08.09-06.19.47:036][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2020.08.09-06.19.47:041][693]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.08.09-06.19.47:041][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2020.08.09-06.19.47:046][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2020.08.09-06.19.47:051][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2020.08.09-06.19.47:071][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2020.08.09-06.19.47:079][693]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2020.08.09-06.19.47:096][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2020.08.09-06.19.47:100][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2020.08.09-06.19.47:104][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.09-06.19.47:108][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2020.08.09-06.19.47:112][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2020.08.09-06.19.47:117][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2020.08.09-06.19.47:121][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2020.08.09-06.19.47:125][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2020.08.09-06.19.47:130][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2020.08.09-06.19.47:136][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2020.08.09-06.19.47:147][693]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2020.08.09-06.19.47:159][693]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2020.08.09-06.19.47:195][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2020.08.09-06.19.47:199][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2020.08.09-06.19.47:210][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.08.09-06.19.47:216][693]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.08.09-06.19.47:216][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2020.08.09-06.19.47:221][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2020.08.09-06.19.47:225][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2020.08.09-06.19.47:229][693]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.08.09-06.19.47:229][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2020.08.09-06.19.47:233][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2020.08.09-06.19.47:238][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2020.08.09-06.19.47:257][693]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_3, compiling. 
+[2020.08.09-06.19.47:266][693]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2020.08.09-06.19.47:275][693]LogSlate: Window 'Color Picker' being destroyed
+[2020.08.09-06.19.47:660][701]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 51
+[2020.08.09-06.19.48:032][712]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 50
+[2020.08.09-06.19.48:216][718]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 49
+[2020.08.09-06.19.48:244][719]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 48
+[2020.08.09-06.19.48:244][719]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 47
+[2020.08.09-06.19.48:668][730]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2020.08.09-06.19.48:791][733]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2020.08.09-06.19.48:815][734]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2020.08.09-06.19.48:920][738]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 43
+[2020.08.09-06.19.48:989][740]LogMaterialEditor: Saving and Compiling material M_Water_Lake
+[2020.08.09-06.19.49:852][740]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2020.08.09-06.19.49:852][740]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2020.08.09-06.19.49:852][740]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2020.08.09-06.19.49:852][740]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 39
+[2020.08.09-06.19.49:852][740]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2020.08.09-06.19.49:852][740]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2020.08.09-06.19.49:852][740]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2020.08.09-06.19.49:852][740]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2020.08.09-06.19.49:863][740]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2020.08.09-06.19.50:070][740]LogMaterial: Display: Missing cached shader map for material M_Water_Lake, compiling. 
+[2020.08.09-06.19.50:247][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.08.09-06.19.50:257][740]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.09-06.19.50:824][740]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 60
+[2020.08.09-06.19.50:824][740]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 59
+[2020.08.09-06.19.50:824][740]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 58
+[2020.08.09-06.19.50:824][740]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 57
+[2020.08.09-06.19.50:824][740]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 56
+[2020.08.09-06.19.50:824][740]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 55
+[2020.08.09-06.19.50:824][740]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 54
+[2020.08.09-06.19.50:824][740]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 53
+[2020.08.09-06.19.51:384][740]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 52
+[2020.08.09-06.19.51:384][740]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 51
+[2020.08.09-06.19.51:384][740]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2020.08.09-06.19.51:384][740]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 49
+[2020.08.09-06.19.51:945][740]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2020.08.09-06.19.51:945][740]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 47
+[2020.08.09-06.19.51:945][740]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2020.08.09-06.19.51:945][740]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2020.08.09-06.19.52:505][740]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2020.08.09-06.19.52:505][740]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 43
+[2020.08.09-06.19.52:505][740]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2020.08.09-06.19.52:505][740]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2020.08.09-06.19.53:066][740]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 40
+[2020.08.09-06.19.53:066][740]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 39
+[2020.08.09-06.19.53:066][740]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 38
+[2020.08.09-06.19.53:066][740]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2020.08.09-06.19.53:066][740]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2020.08.09-06.19.53:626][740]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2020.08.09-06.19.53:626][740]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2020.08.09-06.19.53:626][740]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2020.08.09-06.19.53:626][740]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2020.08.09-06.19.54:187][740]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2020.08.09-06.19.54:187][740]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2020.08.09-06.19.54:187][740]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.08.09-06.19.54:187][740]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2020.08.09-06.19.54:187][740]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2020.08.09-06.19.54:747][740]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.08.09-06.19.54:747][740]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2020.08.09-06.19.54:747][740]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2020.08.09-06.19.54:747][740]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.08.09-06.19.54:747][740]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.08.09-06.19.54:901][740]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.08.09-06.19.54:997][740]TextureStreamingBuild: Display: Compiling optional shaders took 4.748 seconds.
+[2020.08.09-06.19.55:057][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.08.09-06.19.56:809][740]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.08.09-06.19.57:370][740]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.08.09-06.19.57:370][740]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.08.09-06.19.57:931][740]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.08.09-06.19.58:611][740]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Saved/M_Water_Lake3AFC475249E694A78EBDAEAC9A27259E.tmp' to '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Content/StarterContent/Materials/M_Water_Lake.uasset'
+[2020.08.09-06.19.58:650][740]AssetCheck: New page: Asset Save: M_Water_Lake
+[2020.08.09-06.19.58:650][740]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Water_Lake.M_Water_Lake
+[2020.08.09-06.19.58:662][740]MaterialEditorStats: Base pass shader: 175 instructions
+[2020.08.09-06.19.58:662][740]MaterialEditorStats: Base pass shader with Surface Lightmap: 202 instructions
+[2020.08.09-06.19.58:662][740]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 249 instructions
+[2020.08.09-06.19.58:662][740]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.08.09-06.19.58:662][740]MaterialEditorStats: Texture samplers: 4/16
+[2020.08.09-06.19.58:663][740]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2020.08.09-06.19.58:663][740]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.09-06.20.00:010][792]LogSlate: Window 'M_Water_Lake' being destroyed
+[2020.08.09-06.20.00:018][792]LogSlate: Window 'M_Water_Lake' being destroyed
+[2020.08.09-06.20.00:058][792]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.08.09-06.20.00:058][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.09-06.20.06:578][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush5)
+[2020.08.09-06.20.17:216][749]Cmd: EDIT COPY
+[2020.08.09-06.20.17:610][778]Cmd: EDIT PASTE
+[2020.08.09-06.20.26:440][404]Cmd: EDIT COPY
+[2020.08.09-06.20.26:771][428]Cmd: EDIT PASTE
+[2020.08.09-06.20.32:838][846]Cmd: EDIT COPY
+[2020.08.09-06.20.33:093][864]Cmd: EDIT PASTE
+[2020.08.09-06.20.35:549][ 31]Cmd: EDIT COPY
+[2020.08.09-06.20.35:792][ 48]Cmd: EDIT PASTE
+[2020.08.09-06.20.40:377][360]Cmd: EDIT COPY
+[2020.08.09-06.20.40:713][382]Cmd: EDIT PASTE
+[2020.08.09-06.20.43:580][573]Cmd: EDIT COPY
+[2020.08.09-06.20.43:827][590]Cmd: EDIT PASTE
+[2020.08.09-06.20.48:356][893]Cmd: EDIT COPY
+[2020.08.09-06.20.48:615][911]Cmd: EDIT PASTE
+[2020.08.09-06.20.54:508][306]Cmd: EDIT COPY
+[2020.08.09-06.20.54:766][324]Cmd: EDIT PASTE
+[2020.08.09-06.21.03:455][911]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.21.11:976][443]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.08.09-06.21.17:577][897]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.08.09-06.21.33:626][ 31]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.08.09-06.21.34:479][ 90]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.08.09-06.21.34:922][118]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush)
+[2020.08.09-06.21.35:563][164]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.08.09-06.21.36:104][200]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.08.09-06.21.40:708][521]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.21.51:702][327]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.08.09-06.21.59:508][904]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.22.21:881][597]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2020.08.09-06.22.21:882][597]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.08.09-06.22.23:072][686]Cmd: TRANSACTION UNDO
+[2020.08.09-06.22.23:072][686]LogEditorTransaction: Undo Select Brush Surface
+[2020.08.09-06.22.24:005][712]Cmd: TRANSACTION UNDO
+[2020.08.09-06.22.24:005][712]LogEditorTransaction: Undo Move Actors
+[2020.08.09-06.22.24:094][712]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.08.09-06.22.24:094][712]LogGeometryMode: Warning: Unable to resolve BoxBrush2 Brush in new BSP, see above
+[2020.08.09-06.22.24:094][712]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.08.09-06.22.24:761][735]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.08.09-06.22.36:198][614]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.22.43:881][225]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.22.45:557][352]Cmd: EDIT COPY
+[2020.08.09-06.22.45:884][379]Cmd: EDIT PASTE
+[2020.08.09-06.22.50:173][721]Cmd: EDIT COPY
+[2020.08.09-06.22.50:524][750]Cmd: EDIT PASTE
+[2020.08.09-06.22.53:321][972]Cmd: EDIT COPY
+[2020.08.09-06.22.53:709][  4]Cmd: EDIT PASTE
+[2020.08.09-06.23.12:908][502]Cmd: EDIT COPY
+[2020.08.09-06.23.13:325][534]Cmd: EDIT PASTE
+[2020.08.09-06.23.20:680][ 56]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.23.27:807][538]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.23.32:254][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush11)
+[2020.08.09-06.24.03:746][159]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2020.08.09-06.24.03:746][159]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.08.09-06.24.16:064][ 28]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape1)
+[2020.08.09-06.24.48:252][286]LogSlate: Window 'Select Path' being destroyed
+[2020.08.09-06.24.48:337][286]LogStaticMesh: Building static mesh StiltBase...
+[2020.08.09-06.24.48:346][286]LogStaticMesh: Built static mesh [0.01s] /Game/StiltBase.StiltBase
+[2020.08.09-06.24.48:347][286]LogActorFactory: Actor Factory created StiltBase
+[2020.08.09-06.24.48:370][286]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush' is marked pending kill and cannot be converted
+[2020.08.09-06.24.48:370][286]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush5' is marked pending kill and cannot be converted
+[2020.08.09-06.24.48:370][286]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush3' is marked pending kill and cannot be converted
+[2020.08.09-06.24.48:370][286]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush2' is marked pending kill and cannot be converted
+[2020.08.09-06.24.48:370][286]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush8' is marked pending kill and cannot be converted
+[2020.08.09-06.24.48:370][286]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush9' is marked pending kill and cannot be converted
+[2020.08.09-06.24.48:370][286]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush7' is marked pending kill and cannot be converted
+[2020.08.09-06.24.48:371][286]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush6' is marked pending kill and cannot be converted
+[2020.08.09-06.24.48:371][286]LogEditor: Error: Actor 'Brush /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.BoxBrush4' is marked pending kill and cannot be converted
+[2020.08.09-06.24.48:371][286]EditorErrors: New page: Actor Reattachment
+[2020.08.09-06.24.48:383][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.08.09-06.25.25:781][111]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.25.27:740][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush13)
+[2020.08.09-06.25.30:354][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush5)
+[2020.08.09-06.25.32:987][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush6)
+[2020.08.09-06.25.35:923][741]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.25.41:933][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase)
+[2020.08.09-06.25.47:478][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.25.49:493][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase)
+[2020.08.09-06.25.57:788][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush8)
+[2020.08.09-06.25.58:415][244]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.25.58:926][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush7)
+[2020.08.09-06.26.02:687][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush8)
+[2020.08.09-06.26.06:855][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.26.10:823][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase)
+[2020.08.09-06.26.11:572][164]Cmd: EDIT COPY
+[2020.08.09-06.26.11:835][184]Cmd: EDIT PASTE
+[2020.08.09-06.26.18:424][679]Cmd: EDIT COPY
+[2020.08.09-06.26.18:737][703]Cmd: EDIT PASTE
+[2020.08.09-06.26.25:153][184]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.26.37:962][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase2)
+[2020.08.09-06.26.38:683][ 83]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (StiltBase)
+[2020.08.09-06.26.39:147][113]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (StiltBase3)
+[2020.08.09-06.26.59:861][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase3)
+[2020.08.09-06.27.01:293][728]Cmd: EDIT COPY
+[2020.08.09-06.27.01:535][746]Cmd: EDIT PASTE
+[2020.08.09-06.27.06:111][ 80]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.27.09:827][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase3)
+[2020.08.09-06.27.10:528][372]Cmd: EDIT COPY
+[2020.08.09-06.27.10:752][389]Cmd: EDIT PASTE
+[2020.08.09-06.27.14:776][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.27.23:023][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase2)
+[2020.08.09-06.27.49:761][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.27.55:852][478]Cmd: TRANSACTION UNDO
+[2020.08.09-06.27.55:852][478]LogEditorTransaction: Undo Clicking on Actors
+[2020.08.09-06.27.59:065][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase5)
+[2020.08.09-06.28.12:515][742]Cmd: TRANSACTION UNDO
+[2020.08.09-06.28.12:515][742]LogEditorTransaction: Undo Rotate Actors
+[2020.08.09-06.28.12:833][748]Cmd: TRANSACTION UNDO
+[2020.08.09-06.28.12:833][748]LogEditorTransaction: Undo Rotate Actors
+[2020.08.09-06.28.13:071][751]Cmd: TRANSACTION UNDO
+[2020.08.09-06.28.13:071][751]LogEditorTransaction: Undo Rotate Actors
+[2020.08.09-06.28.34:474][424]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.28.39:908][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase5)
+[2020.08.09-06.28.45:704][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.29.00:030][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase4)
+[2020.08.09-06.29.00:893][242]Cmd: EDIT COPY
+[2020.08.09-06.29.01:140][261]Cmd: EDIT PASTE
+[2020.08.09-06.29.06:218][642]Cmd: EDIT COPY
+[2020.08.09-06.29.06:487][663]Cmd: EDIT PASTE
+[2020.08.09-06.29.19:672][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.29.23:363][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase7)
+[2020.08.09-06.29.24:585][ 12]Cmd: EDIT COPY
+[2020.08.09-06.29.24:910][ 38]Cmd: EDIT PASTE
+[2020.08.09-06.29.39:591][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.29.41:270][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase6)
+[2020.08.09-06.29.42:222][365]Cmd: EDIT COPY
+[2020.08.09-06.29.42:505][387]Cmd: EDIT PASTE
+[2020.08.09-06.29.49:594][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.30.01:262][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase9)
+[2020.08.09-06.30.02:302][838]Cmd: EDIT COPY
+[2020.08.09-06.30.02:597][861]Cmd: EDIT PASTE
+[2020.08.09-06.30.17:252][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.30.30:624][904]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.08.09-06.30.51:542][401]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.08.09-06.32.15:757][728]Cmd: TRANSACTION UNDO
+[2020.08.09-06.32.15:757][728]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2020.08.09-06.32.15:839][728]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.08.09-06.32.15:843][728]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2020.08.09-06.32.15:909][728]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.08.09-06.33.11:644][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.08.09-06.33.11:688][657]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.08.09-06.33.11:693][657]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2020.08.09-06.33.11:694][657]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2020.08.09-06.33.11:694][657]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2020.08.09-06.33.11:730][657]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.08.09-06.33.11:731][657]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2020.08.09-06.33.11:731][657]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2020.08.09-06.33.11:732][657]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2020.08.09-06.33.11:825][657]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2020.08.09-06.33.11:829][657]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2020.08.09-06.33.11:830][657]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2020.08.09-06.33.11:831][657]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2020.08.09-06.33.11:832][657]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2020.08.09-06.33.11:833][657]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2020.08.09-06.33.11:852][657]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2020.08.09-06.33.11:853][657]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2020.08.09-06.33.11:854][657]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2020.08.09-06.33.11:855][657]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2020.08.09-06.33.11:855][657]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2020.08.09-06.33.11:856][657]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2020.08.09-06.33.11:857][657]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2020.08.09-06.33.11:858][657]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2020.08.09-06.33.11:858][657]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2020.08.09-06.33.11:859][657]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2020.08.09-06.33.11:860][657]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2020.08.09-06.33.11:862][657]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2020.08.09-06.33.12:078][657]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Saved/Minimal_Default_Auto562F1D6384D2DB520998105AEE166CEDF.tmp' to '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto5.umap'
+[2020.08.09-06.33.12:086][657]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.468
+[2020.08.09-06.33.12:086][657]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.468
+[2020.08.09-06.33.12:086][657]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StiltBase] ([1] browsable assets)...
+[2020.08.09-06.33.12:143][657]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StiltBase.StiltBase]
+[2020.08.09-06.33.12:143][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/StiltBase]
+[2020.08.09-06.33.12:143][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StiltBase" FILE="../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Saved/Autosaves/Game/StiltBase_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.08.09-06.33.12:158][657]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Saved/StiltBase_Auto5B2E403154A50151C3A1A968A85FDE5B3.tmp' to '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Saved/Autosaves/Game/StiltBase_Auto5.uasset'
+[2020.08.09-06.33.12:159][657]LogFileHelpers: Auto-saving content packages took 0.073
+[2020.08.09-06.33.13:442][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase9)
+[2020.08.09-06.33.14:488][801]Cmd: EDIT COPY
+[2020.08.09-06.33.14:723][818]Cmd: EDIT PASTE
+[2020.08.09-06.33.28:390][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase9)
+[2020.08.09-06.33.31:859][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.33.36:962][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase)
+[2020.08.09-06.33.37:919][425]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (StiltBase2)
+[2020.08.09-06.33.38:524][465]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (StiltBase3)
+[2020.08.09-06.33.39:693][543]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.33.40:512][595]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (StiltBase4)
+[2020.08.09-06.33.41:022][625]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (StiltBase5)
+[2020.08.09-06.33.52:464][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.34.00:396][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.34.16:766][166]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.08.09-06.34.23:006][667]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.08.09-06.34.28:421][116]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush)
+[2020.08.09-06.34.43:170][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.34.56:445][461]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.08.09-06.34.57:044][509]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.08.09-06.34.57:596][553]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.08.09-06.35.08:302][347]Cmd: TRANSACTION UNDO
+[2020.08.09-06.35.08:302][347]LogEditorTransaction: Undo Move Actors
+[2020.08.09-06.35.08:326][347]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.08.09-06.35.08:327][347]LogGeometryMode: Warning: Unable to resolve BoxBrush_13 Brush in new BSP, see above
+[2020.08.09-06.35.08:327][347]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.08.09-06.35.09:168][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.35.10:520][465]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.08.09-06.35.11:087][503]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.08.09-06.35.17:602][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.35.37:095][675]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.35.45:194][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.35.52:398][934]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.08.09-06.36.00:706][629]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.36.20:586][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.36.23:844][412]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.36.32:097][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.36.52:701][601]LogGeometryMode: Warning: Unable to find CylinderBrush Brush(s) in new BSP
+[2020.08.09-06.36.52:701][601]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.08.09-06.37.09:832][103]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.37.15:533][582]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.37.18:102][786]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.08.09-06.37.26:794][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.37.36:282][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.37.45:062][972]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.08.09-06.37.52:912][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.37.54:185][705]Cmd: TRANSACTION UNDO
+[2020.08.09-06.37.54:185][705]LogEditorTransaction: Undo Clicking on Actors
+[2020.08.09-06.37.54:922][726]Cmd: TRANSACTION UNDO
+[2020.08.09-06.37.54:922][726]LogEditorTransaction: Undo Move Actors
+[2020.08.09-06.37.54:950][726]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.08.09-06.37.54:950][726]LogGeometryMode: Warning: Unable to resolve BoxBrush3_18 Brush in new BSP, see above
+[2020.08.09-06.37.54:950][726]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.08.09-06.37.55:547][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.38.01:686][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.38.13:444][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.38.28:529][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.38.39:583][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.38.54:103][396]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.39.04:425][211]LogGeometryMode: Warning: Unable to find ConeBrush Brush(s) in new BSP
+[2020.08.09-06.39.04:425][211]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.08.09-06.39.07:603][493]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.39.08:823][592]Cmd: TRANSACTION UNDO
+[2020.08.09-06.39.08:823][592]LogEditorTransaction: Undo Clicking on Actors
+[2020.08.09-06.39.09:547][615]Cmd: TRANSACTION UNDO
+[2020.08.09-06.39.09:547][615]LogEditorTransaction: Undo Move Actors
+[2020.08.09-06.39.15:009][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.39.24:887][779]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.39.35:034][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.39.41:709][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.39.54:237][917]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.40.01:662][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase3)
+[2020.08.09-06.40.05:813][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.40.09:834][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.40.15:131][543]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.08.09-06.40.21:427][ 10]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.40.22:450][ 82]Cmd: TRANSACTION UNDO
+[2020.08.09-06.40.22:450][ 82]LogEditorTransaction: Undo Clicking on Actors
+[2020.08.09-06.40.23:716][152]Cmd: TRANSACTION UNDO
+[2020.08.09-06.40.23:716][152]LogEditorTransaction: Undo Move Actors
+[2020.08.09-06.40.23:745][152]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.08.09-06.40.23:745][152]LogGeometryMode: Warning: Unable to resolve BoxBrush4_20 Brush in new BSP, see above
+[2020.08.09-06.40.23:745][152]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.08.09-06.40.27:567][448]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.40.35:840][ 66]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.40.38:391][258]Cmd: EDIT COPY
+[2020.08.09-06.40.38:717][285]Cmd: EDIT PASTE
+[2020.08.09-06.40.48:881][107]Cmd: EDIT COPY
+[2020.08.09-06.40.49:253][140]Cmd: EDIT PASTE
+[2020.08.09-06.40.53:863][496]Cmd: EDIT COPY
+[2020.08.09-06.40.54:151][520]Cmd: EDIT PASTE
+[2020.08.09-06.40.58:189][869]Cmd: EDIT COPY
+[2020.08.09-06.40.58:511][896]Cmd: EDIT PASTE
+[2020.08.09-06.41.05:487][467]Cmd: EDIT COPY
+[2020.08.09-06.41.05:734][487]Cmd: EDIT PASTE
+[2020.08.09-06.41.20:930][814]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape1)
+[2020.08.09-06.41.26:357][283]Cmd: EDIT COPY
+[2020.08.09-06.41.26:618][307]Cmd: EDIT PASTE
+[2020.08.09-06.41.45:621][  1]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.41.49:314][299]Cmd: EDIT COPY
+[2020.08.09-06.41.49:556][321]Cmd: EDIT PASTE
+[2020.08.09-06.41.53:595][678]Cmd: EDIT COPY
+[2020.08.09-06.41.53:868][703]Cmd: EDIT PASTE
+[2020.08.09-06.41.56:986][976]Cmd: EDIT COPY
+[2020.08.09-06.41.57:267][  0]Cmd: EDIT PASTE
+[2020.08.09-06.42.02:993][501]Cmd: EDIT COPY
+[2020.08.09-06.42.03:236][523]Cmd: EDIT PASTE
+[2020.08.09-06.42.11:627][262]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.42.23:731][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase4)
+[2020.08.09-06.42.50:478][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.43.12:782][361]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.08.09-06.43.20:850][986]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush20)
+[2020.08.09-06.43.21:715][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase2)
+[2020.08.09-06.43.41:067][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase)
+[2020.08.09-06.43.57:909][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.44.47:947][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.08.09-06.44.48:218][199]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Saved/Minimal_Default_Auto69FD2CB7C4F6BBC7E7E9BF49E7A9F69B2.tmp' to '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto6.umap'
+[2020.08.09-06.44.48:225][199]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.295
+[2020.08.09-06.44.48:225][199]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.295
+[2020.08.09-06.45.17:037][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (StiltBase7)
+[2020.08.09-06.45.30:845][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.46.24:727][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.46.28:237][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.46.29:151][422]LogEditorViewport: Clicking on Actor (LMB): Character (Character2)
+[2020.08.09-06.47.12:256][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bush9)
+[2020.08.09-06.47.16:115][643]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.08.09-06.47.19:234][806]LogActorFactory: Actor Factory created SM_Rock
+[2020.08.09-06.47.21:068][921]LogActorFactory: Actor Factory created SM_Rock
+[2020.08.09-06.47.22:101][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SwampWaterBlue)
+[2020.08.09-06.47.25:643][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.08.09-06.47.25:887][216]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Saved/Minimal_Default4853E9B841211AAAF47312B5D6842100.tmp' to '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.08.09-06.47.25:991][216]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Saved/Minimal_Default_BuiltData5697BFF84DC4EC14F6AC019D6370A4B9.tmp' to '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.08.09-06.47.26:117][216]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.09-06.47.26:117][216]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.08.09-06.47.26:117][216]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
