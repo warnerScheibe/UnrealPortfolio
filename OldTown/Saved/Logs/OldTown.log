@@ -5812,3 +5812,16 @@ Script Stack (0 frames):
 [2020.08.09-07.01.20:748][  0]AssetCheck: New page: Asset Save: multiple assets
 [2020.08.09-07.01.20:748][  0]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2020.08.09-07.01.20:748][  0]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.08.09-07.08.50:712][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.08.09-07.08.50:750][906]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.08.09-07.08.50:755][906]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2020.08.09-07.08.50:756][906]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2020.08.09-07.08.50:757][906]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2020.08.09-07.08.50:757][906]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2020.08.09-07.08.50:758][906]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 64X64)
+[2020.08.09-07.08.50:759][906]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2020.08.09-07.08.50:976][906]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Saved/Minimal_Default180AAC164B1A440B63D14B8DDEE01F38.tmp' to '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.08.09-07.08.51:062][906]LogSavePackage: Moving '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Saved/Minimal_Default_BuiltData98897038476121A17D45318B901A793B.tmp' to '../../../../../../Users/Warner/Desktop/UnrealPortfolio/OldTown/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.08.09-07.08.51:075][906]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.09-07.08.51:075][906]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.08.09-07.08.51:075][906]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
